@@ -1,0 +1,34 @@
+{
+  "Musica": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Artista": {"S": "Iron Maiden"},
+          "TituloMusica": {"S": "Wasting Love"},
+          "TituloAlbum": {"S": "Fear of the Dark Live"},
+          "AnoMusica": {"S": "1992"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artista": {"S": "Iron Maiden"},
+          "TituloMusica": {"S": "Weekend Warrior"},
+          "TituloAlbum": {"S": "Fear of the Dark"},
+          "AnoMusica": {"S": "1992"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artista": {"S": "Iron Maiden"},
+          "TituloMusica": {"S": "Fear of the Dark"},
+          "TituloAlbum": {"S": "Fear of the Dark Tour"},
+          "AnoMusica": {"S": "1992"}
+        }
+      }
+    }
+  ]
+}

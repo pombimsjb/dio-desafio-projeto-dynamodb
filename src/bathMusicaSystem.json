@@ -1,0 +1,24 @@
+{
+  "Musica": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Artista": {"S": "System of a Down"},
+          "TituloMusica": {"S": "Chop Suey!"},
+          "TituloAlbum": {"S": "Toxicity"},
+          "AnoMusica": {"S": "2001"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artista": {"S": "System of a Down"},
+          "TituloMusica": {"S": "Toxicity"},
+          "TituloAlbum": {"S": "Toxicity"},
+          "AnoMusica": {"S": "2001"}
+        }
+      }
+    }
+  ]
+}
